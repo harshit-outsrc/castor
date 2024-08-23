@@ -1,0 +1,46 @@
+[run]
+branch = True
+omit =
+    jobs/strut_progress_activity_tracker/*
+    jobs/vcg_sftp_student_uploader/*
+    env/*
+    tests/*
+    tools/*
+    setup.py
+
+source =
+    lambda_functions
+    jobs
+
+[report]
+skip_empty = True
+
+# Regexes for lines to exclude from consideration
+exclude_also =
+    def build
+
+exclude_lines =
+    from
+    import
+    raise
+    collections
+    pass
+
+    # Have to re-enable the standard pragma
+    pragma: no cover
+
+    # Don't complain about missing debug-only code:
+    def __repr__
+    if self\.debug
+
+    # Don't complain if tests don't hit defensive assertion code:
+    raise AssertionError
+    raise NotImplementedError
+
+    # Don't complain if non-runnable code isn't run:
+    if __name__ == .__main__.:
+
+ignore_errors = True
+
+[html]
+directory = coverage/html

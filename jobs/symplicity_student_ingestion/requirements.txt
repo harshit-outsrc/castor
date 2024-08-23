@@ -1,0 +1,2 @@
+propus @ git+ssh://git@github.com/calbright-college/propus.git@722d716cd2e5687178fb47bb9b4f25d47a85431c
+dictdiffer<=1.0.0

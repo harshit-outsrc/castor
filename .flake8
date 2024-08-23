@@ -1,0 +1,12 @@
+[flake8]
+ignore = D203,W504,W503,E203
+exclude =
+    .git,
+    __pycache__,
+    env/*
+    calbright/__init__.py
+    */node_modules/*
+    */test_events/*
+    tests/start_scripts/*.py
+    jobs/pace_progress_automation/const/email_constants.py
+max-line-length = 120

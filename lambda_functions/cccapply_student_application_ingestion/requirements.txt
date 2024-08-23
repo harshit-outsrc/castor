@@ -1,0 +1,2 @@
+propus @ git+ssh://git@github.com/calbright-college/propus.git@0ffde0c0e1cf51915f2e60e2f397ac7e008ef1d0
+oracledb

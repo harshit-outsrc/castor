@@ -1,0 +1,254 @@
+Competency Title,Assessment Type,Assessment Kind,Assessment Id,Assessment Title,Assessment Node Depth,Test Form,# of Questions,# of Students Attempted,# Passed - 1st Attempt,% Passed - 1st Attempt,# Passed - 2nd Attempt,% Passed - 2nd Attempt,# Stated Question easy,# Stated Question moderate,# Stated Question difficult,Student Tag
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2479,Business of Medicine,1,1,25,53,43,81.13,0,0,25,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2517,Practical Applications,2,1,20,48,33,68.75,14,93.33,20,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2503,Chapter 3 Readings,2,1,20,51,33,64.71,14,87.5,20,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2557,Chapter 5 Readings,2,1,30,36,27,75,7,87.5,30,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2580,Practical Application (Cases 1-5),2,1,5,34,8,23.53,24,92.31,5,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,5116,Practical Application (Cases 6-10),2,1,5,34,14,41.18,20,100,5,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2556,ICD-10-CM Coding Chapters 12-21,1,1,25,33,14,42.42,0,0,25,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2479,Business of Medicine,1,2,25,9,0,0,9,100,25,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2605,Practical Applications,2,1,20,33,31,93.94,2,100,20,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2523,Chapter 4 Readings,2,1,33,42,26,61.9,13,81.25,33,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2550,Practical Application (Cases 1-5),2,1,5,38,29,76.32,8,88.89,5,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,5114,Practical Application (Cases 6-10),2,1,5,40,11,27.5,14,50,5,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2587,Chapter 6 Readings,2,1,28,33,28,84.85,4,80,28,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2522,ICD-10-CM Coding Chapters 1-11,1,2,26,14,0,0,8,57.14,26,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2480,Chapter 1 Readings,2,1,10,55,27,49.09,23,82.14,10,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2522,ICD-10-CM Coding Chapters 1-11,1,1,25,39,24,61.54,0,0,25,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2556,ICD-10-CM Coding Chapters 12-21,1,2,25,19,0,0,15,78.95,25,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2502,ICD-10 CM,1,1,25,48,31,64.58,0,0,25,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2502,ICD-10 CM,1,2,26,17,0,0,7,41.18,26,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2586,"Introduction to CPT®, Surgery Guidelines, HCPCS, and Modifiers",1,2,25,2,0,0,2,100,25,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Summative,Quiz,2586,"Introduction to CPT®, Surgery Guidelines, HCPCS, and Modifiers",1,1,25,33,31,93.94,0,0,25,0,0,none
+CPC Competency 2: Medical Coding Fundamentals,Formative,Quiz,2497,Practical Application,2,1,10,56,48,85.71,8,100,10,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3266,Practical Application (Case 1-5),2,1,5,24,7,29.17,12,70.59,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3220,Integumentary System,1,1,25,28,16,57.14,0,0,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3220,Integumentary System,1,2,25,12,0,0,3,25,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3257,Musculoskeletal System,1,2,25,15,0,0,13,86.67,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3257,Musculoskeletal System,1,1,25,23,7,30.43,0,0,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3290,"Respiratory, Hemic, Lymphatic, Mediastinum, Diaphragm",1,2,25,2,0,0,1,50,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3290,"Respiratory, Hemic, Lymphatic, Mediastinum, Diaphragm",1,1,25,19,17,89.47,0,0,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3316,Cardiovascular System,1,2,25,7,0,0,5,71.43,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3316,Cardiovascular System,1,1,25,16,9,56.25,0,0,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3383,Urinary System and Male Genital System,1,1,25,14,10,71.43,0,0,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3383,Urinary System and Male Genital System,1,2,25,4,0,0,2,50,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3351,Digestive System,1,2,25,2,0,0,2,100,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3351,Digestive System,1,1,25,16,14,87.5,0,0,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3414,"Reproductive Systems, Female Genital System, and Maternity",1,1,25,14,10,71.43,0,0,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Summative,Quiz,3414,"Reproductive Systems, Female Genital System, and Maternity",1,2,25,4,0,0,3,75,25,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3415,Chapter 13 Readings,2,1,15,14,13,92.86,1,100,15,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3422,Practical Application (Cases 1-5),2,1,5,14,6,42.86,6,75,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,5130,Practical Application (Cases 6-10),2,1,5,14,3,21.43,7,63.64,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3352,Chapter 11 Readings,2,1,20,16,15,93.75,1,100,20,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3378,Practical Application (Case 1-5),2,1,5,16,13,81.25,3,100,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,5126,Practical Application (Cases 6-10),2,1,5,16,11,68.75,4,80,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3384,Chapter 12 Readings,2,1,30,16,13,81.25,3,100,30,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3392,Practical Application (Cases 1-5),2,1,5,14,12,85.71,2,100,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,5128,Practical Application (Cases 6-10),2,1,5,14,8,57.14,5,83.33,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3317,Chapter 10 Readings,2,1,23,18,8,44.44,10,100,23,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3326,Practical Application (Case 1-5),2,1,5,16,8,50,8,100,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,5124,Practical Application (Case 6-10),2,1,5,16,4,25,10,83.33,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3291,Chapter 9 Readings,2,1,30,21,21,100,0,0,30,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3311,Practical Application (Cases 1-5),2,1,5,20,10,50,10,100,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,5122,Practical Application (Cases 6-10),2,1,5,20,5,25,12,80,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3258,Chapter 8 Readings,2,1,20,24,21,87.5,3,100,20,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,5120,Practical Application (Cases 6-10),2,1,5,24,6,25,14,77.78,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3221,Chapter 7 Readings,2,1,19,32,17,53.13,14,93.33,19,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,5118,Practical Application (Case 6-10),2,1,5,30,7,23.33,16,69.57,5,0,0,none
+CPC Competency 3: Medical Coding for Body Systems I,Formative,Quiz,3250,Practical Application (Case 1-5),2,1,5,30,19,63.33,9,81.82,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,5304,CPC Mock Exam,0,2,100,1,0,0,1,100,100,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4196,Evaluation and Management,1,1,25,11,7,63.64,0,0,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4196,Evaluation and Management,1,2,25,4,0,0,4,100,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4084,"Eye and Ocular Adnexa, Auditory Systems",1,1,25,14,14,100,0,0,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4137,Chapter 17 Readings,2,1,25,12,10,83.33,2,100,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,5138,Practical Application (Cases 6-10),2,1,5,12,5,41.67,6,85.71,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4158,Practical Application (Cases 1-5),2,1,5,12,7,58.33,4,80,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4236,Chapter 20 Readings,2,1,46,11,11,100,0,0,46,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,5144,Practical Application (Cases 6-10),2,1,5,10,7,70,3,100,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4271,Practical Application (Cases 1-5),2,1,5,10,7,70,3,100,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4164,Chapter 18 Readings,2,1,15,11,10,90.91,1,100,15,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,5140,Practical Application (Cases 6-10),2,1,5,11,5,45.45,3,50,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4136,Radiology,1,1,25,12,11,91.67,0,0,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4119,Chapter 16 Readings,2,1,24,14,13,92.86,1,100,24,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4131,Practical Application (Cases 1-5),2,1,5,13,8,61.54,5,100,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4079,Practical Application (Cases 1-5),2,1,5,14,8,57.14,5,83.33,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,5132,Practical Application (Cases 6-10),2,1,5,14,7,50,4,57.14,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4047,Endocrine System and Nervous System,1,1,25,14,14,100,0,0,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4048,Chapter 14 Readings,2,1,25,14,12,85.71,2,100,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,5136,Practical Application (Cases 6-10),2,1,5,13,1,7.69,8,66.67,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4136,Radiology,1,2,25,1,0,0,1,100,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4235,Medicine,1,1,25,10,9,90,0,0,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4235,Medicine,1,2,25,1,0,0,1,100,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4118,Anesthesia,1,1,25,13,13,100,0,0,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,4163,Pathology/Laboratory,1,1,25,11,11,100,0,0,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4191,Practical Application (Cases 1-5),2,1,5,11,5,45.45,5,83.33,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4197,Chapter 19 Readings,2,1,25,11,3,27.27,7,87.5,25,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,5142,Practical Application (Cases 6-10),2,1,5,11,3,27.27,6,75,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4230,Practical Application (Cases 1-5),2,1,5,11,4,36.36,7,100,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4085,Chapter 15 Readings,2,1,30,14,11,78.57,3,100,30,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,4095,Practical Application (Cases 1-5),2,1,5,14,12,85.71,1,50,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Formative,Quiz,5134,Practical Application (Cases 6-10),2,1,5,14,6,42.86,6,75,5,0,0,none
+CPC Competency 4: Medical Coding for Body Systems II,Summative,Quiz,5304,CPC Mock Exam,0,1,100,10,10,90.91,0,0,100,0,0,none
+CPC Competency 1: Medical Terminology/Pharmacology Fundamentals,Formative,Quiz,4306,Medical Terminology and Pharmacology Readings,2,1,25,38,34,89.47,2,50,25,0,0,none
+CPC Competency 1: Medical Terminology/Pharmacology Fundamentals,Summative,Quiz,4305,Medical Terminology and Pharmacology Fundamentals,1,1,30,37,36,97.3,0,0,30,0,0,none
+CPC Competency 1: Medical Terminology/Pharmacology Fundamentals,Summative,Quiz,4887,Medical Anatomy and Terminology Review,1,2,25,5,0,0,3,60,25,0,0,none
+CPC Competency 1: Medical Terminology/Pharmacology Fundamentals,Summative,Quiz,4887,Medical Anatomy and Terminology Review,1,1,25,34,29,85.29,0,0,25,0,0,none
+CPC Competency 1: Medical Terminology/Pharmacology Fundamentals,Formative,Quiz,4888,Chapter 2 Readings,2,1,20,36,25,69.44,8,80,20,0,0,none
+CPC Competency 1: Medical Terminology/Pharmacology Fundamentals,Formative,Quiz,4912,Practical Application,2,1,10,35,30,85.71,5,100,10,0,0,none
+CPC Competency 1: Medical Terminology/Pharmacology Fundamentals,Summative,Quiz,4305,Medical Terminology and Pharmacology Fundamentals,1,2,30,1,0,0,1,100,30,0,0,none
+CPC Competency 1: Medical Terminology Fundamentals,Formative,Quiz,13266,Practical Application,2,1,10,33,30,90.91,1,33.33,10,0,0,none
+CPC Competency 1: Medical Terminology Fundamentals,Summative,Quiz,13241,Medical Anatomy and Terminology Review,1,1,25,31,26,83.87,0,0,25,0,0,none
+CPC Competency 1: Medical Terminology Fundamentals,Summative,Quiz,13241,Medical Anatomy and Terminology Review,1,2,25,4,0,0,2,50,25,0,0,none
+CPC Competency 1: Medical Terminology Fundamentals,Formative,Quiz,13242,Chapter 2 Readings,2,1,20,37,19,51.35,13,81.25,20,0,0,none
+BUS 500 - Introduction to Structured Data,Summative,OpenClassroomsExternalAssessment,22319,Understanding the Web,1,1,,87,87,100,0,0,,,,none
+BUS 500 - Introduction to Structured Data,Summative,OpenClassroomsExternalAssessment,22340,Speak in Public,1,1,,57,57,100,0,0,,,,none
+BUS 500 - Introduction to Structured Data,Formative,Quiz,22346,Post-Assessment,2,1,20,61,51,83.61,10,100,20,0,0,none
+BUS 500 - Introduction to Structured Data,Summative,OpenClassroomsExternalAssessment,22328,Master the Basics of Spreadsheets,1,1,,71,71,100,0,0,,,,none
+BUS 500 - Introduction to Structured Data,Formative,Quiz,22304,Welcome to Data Analysis Program,2,1,20,113,9,7.96,74,83.15,20,0,0,none
+BUS 500 - Introduction to Structured Data,Summative,OpenClassroomsExternalAssessment,22322,Think Like a Computer: The Logic of Programming,1,1,,77,77,100,0,0,,,,none
+BUS 500 - Introduction to Structured Data,Summative,OpenClassroomsExternalAssessment,22334,Retrieving Data with SQL,1,1,,64,64,100,0,0,,,,none
+WF500 - Essential 21st Century Skills,Summative,Quiz,22515,Thrive in a Job: Work Relationships- Exam,0,1,18,235,60,25.53,124,77.02,18,0,0,none
+WF500 - Essential 21st Century Skills,Formative,Quiz,22516,COURSE INTRODUCTION,1,1,2,981,960,97.86,18,90,2,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22899,Lesson 4 Pre-Assessment,3,1,10,141,66,46.81,65,92.86,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22913,Lesson 11 Pre-Assessment,3,1,10,59,34,57.63,17,73.91,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22919,Lesson 14 Pre-Assessment,3,1,10,43,16,37.21,18,75,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22921,Lesson 15 Pre-Assessment,3,1,10,37,24,64.86,10,83.33,10,0,0,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22937,Lab Work #2,3,1,,129,52,40.31,20,35.09,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22947,Lab Work #2,3,1,,31,28,90.32,1,50,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22991,Lesson 21 Problem Based Questions,3,1,,34,21,61.76,10,83.33,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22935,Lesson 2 Performance Based Questions,3,1,,197,67,34.01,96,88.89,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22957,Lesson 4 Performance Based Questions,3,1,,127,52,40.94,64,92.75,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22892,Lesson 1 Performance Based Questions,3,1,,249,68,27.31,122,85.31,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22981,Lesson 16 Problem Based Questions,3,1,,35,15,42.86,19,95,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22983,Lesson 17 Problem Based Questions,3,1,,35,13,37.14,20,90.91,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22969,Lesson 10 Problem Based Questions,3,1,,59,16,27.12,33,76.74,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22903,Lesson 6 Pre-Assessment,3,1,10,103,42,40.78,40,75.47,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22917,Lesson 13 Pre-Assessment,3,1,10,42,20,47.62,20,95.24,10,0,0,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22948,Lab Work #3,3,1,,29,28,96.55,0,0,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22939,Lab Work #2,3,1,,74,62,83.78,9,100,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22923,Lesson 16 Pre-Assessment,3,1,10,35,13,37.14,17,80.95,10,0,0,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22795,Lab Work #1,3,1,,33,29,87.88,0,0,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22897,Lesson 3 Pre-Assessment,3,1,10,186,118,63.44,54,87.1,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22925,Lesson 17 Pre-Assessment,3,1,10,36,25,69.44,6,66.67,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22929,Lesson 19 Pre-Assessment,3,1,10,35,12,34.29,12,57.14,10,0,0,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22940,Lab Work #3,3,1,,71,68,95.77,1,33.33,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22740,Lab Work,3,1,,71,33,46.48,16,57.14,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22959,Lesson 5 Problem Based Questions,3,1,,106,35,33.02,53,81.54,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22949,Lab Work #4,3,1,,31,15,48.39,7,53.85,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22963,Lesson 7 Problem Based Questions,3,1,,79,16,20.25,47,78.33,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22955,Lesson 3 Performance Based Questions,3,1,,150,43,28.67,73,82.02,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22730,Lab Work #1,3,1,,79,66,83.54,6,60,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22778,Lab Work #1,3,1,,40,37,92.5,1,33.33,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22945,Lab Work #2,3,1,,39,14,35.9,11,57.89,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22953,Lab Work #2,3,1,,27,22,81.48,1,20,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22961,Lesson 6 Problem Based Questions,3,1,,100,51,51,44,97.78,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22985,Lesson 18 Problem Based Questions,3,1,,35,17,48.57,17,94.44,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22973,Lesson 12 Problem Based Questions,3,1,,49,9,18.37,26,70.27,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22911,Lesson 10 Pre-Assessment,3,1,10,62,35,56.45,17,68,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22901,Lesson 5 Pre-Assessment,3,1,10,120,42,35,46,75.41,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22915,Lesson 12 Pre-Assessment,3,1,10,51,21,41.18,26,96.3,10,0,0,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22975,Lesson 13 Problem Based Questions,3,1,,44,30,68.18,13,92.86,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22977,Lesson 14 Problem Based Questions,3,1,,39,17,43.59,19,86.36,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22987,Lesson 19 Problem Based Questions,3,1,,35,15,42.86,16,84.21,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22989,Lesson 20 Problem Based Questions,3,1,,32,12,37.5,18,90,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22909,Lesson 9 Pre-Assessment,3,1,10,68,35,51.47,24,88.89,10,0,0,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22965,Lesson 8 Problem Based Questions,3,1,,73,23,31.51,44,88,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22971,Lesson 11 Problem Based Questions,3,1,,52,10,19.23,31,79.49,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22979,Lesson 15 Problem Based Questions,3,1,,37,10,27.03,22,84.62,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22810,Lab Work,3,1,,32,25,78.13,5,83.33,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22931,Lesson 20 Pre-Assessment,3,1,10,35,21,60,11,84.62,10,0,0,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22820,Lab Work,3,1,,32,30,93.75,2,100,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22828,Lab Work,3,1,,31,26,83.87,3,60,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22648,Introduction: Welcome to the Calbright Cybersecurity Program,3,1,26,367,266,72.48,82,85.42,26,0,0,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22760,Lab Work #1,3,1,,56,53,94.64,3,100,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22751,Lab Work,3,1,,57,53,92.98,4,100,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22684,Lab Work,3,1,,186,137,73.66,32,71.11,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22669,Post-Assessment,3,1,26,302,266,88.08,31,93.94,26,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22933,Lesson 21 Pre-Assessment,3,1,10,33,28,84.85,4,100,10,0,0,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22843,Lab Work #1,3,1,,28,26,92.86,1,100,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22675,Lab Work,3,1,,247,118,47.58,52,44.44,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22703,Lab Work,3,1,,113,96,84.96,9,69.23,,,,none
+IT510 - Cybersecurity,Summative,CustomExternalAssessment,22967,Lesson 9 Problem Based Questions,3,1,,62,13,20.97,34,72.34,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22769,Lab Work,3,1,,48,38,79.17,8,88.89,,,,none
+IT510 - Cybersecurity,Formative,Quiz,23969,Mid-Course Feedback Survey,3,1,1,64,48,75,15,93.75,1,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,23971,End-of-Course Feedback Survey,3,1,1,28,24,85.71,4,100,1,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22905,Lesson 7 Pre-Assessment,3,1,10,89,47,52.81,30,85.71,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22927,Lesson 18 Pre-Assessment,3,1,10,35,20,57.14,11,84.62,10,0,0,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22694,Lab Work #1,3,1,,152,116,76.32,21,72.41,,,,none
+IT510 - Cybersecurity,Formative,CustomExternalAssessment,22943,Lab Work #2,3,1,,53,49,92.45,3,75,,,,none
+IT510 - Cybersecurity,Formative,Quiz,22907,Lesson 8 Pre-Assessment,3,1,10,77,33,42.86,22,61.11,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22890,Lesson 1 Pre-Assessment,3,1,10,301,96,31.89,142,79.78,10,0,0,none
+IT510 - Cybersecurity,Formative,Quiz,22895,Lesson 2 Pre-Assessment,3,1,10,227,105,46.26,89,81.65,10,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23358,Lesson 7 Lab Work: Configure SOHO Router Security,3,1,,90,54,60,10,34.48,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23221,Lesson 2 Performance-Based Questions II,3,1,,786,398,50.57,267,74.79,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23282,Lesson 2 Performance-Based Questions,3,1,,138,69,50,52,76.47,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23411,Lesson 11 Performance-Based Questions I,3,1,,89,4,4.49,39,47.56,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23191,Pre-Assessment,3,1,26,"2,494","1,060",42.5,"1,054",83.25,26,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23055,Post-Assessment,3,1,26,"1,567","1,326",84.62,202,89.38,26,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23061,Lesson 2 Pre-Assessment,3,1,10,959,177,18.46,546,81.98,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23076,Lesson 3 Pre-Assessment,3,1,10,744,88,11.83,425,74.82,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23091,Lesson 4 Pre-Assessment,3,1,10,587,102,17.38,316,77.45,10,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23124,Lesson 5 Lab Work: Configure a SOHO Router,3,1,,399,194,48.62,66,37.71,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23111,Lesson 5 Pre-Assessment,3,1,10,482,85,17.63,261,76.54,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23127,Lesson 6 Pre-Assessment,3,1,10,407,32,7.86,249,78.8,10,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23108,Lesson 4 Lab Work: Compare Networking Hardware,3,1,,462,282,61.04,78,53.42,,,,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23139,Lesson 6 Lab Work: Troubleshoot a Network Scenario #3,3,1,,324,72,22.22,52,25.62,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23142,Lesson 7 Pre-Assessment,3,1,10,355,60,16.9,184,73.31,10,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23169,Lesson 8 Lab Work: Upgrade Laptop RAM,3,1,,260,173,66.54,39,51.32,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23156,Lesson 8 Pre-Assessment,3,1,10,303,76,25.08,183,90.15,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23172,Lesson 9 Pre-Assessment,3,1,10,279,117,41.94,124,86.11,10,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23184,Lesson 9 Lab Work: Deploy a Printer,3,1,,249,173,69.48,28,50.91,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23242,Lesson 9: Performance-Based Questions I,3,1,,350,163,46.44,114,69.94,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23267,Lesson 2 Pre-Assessment,3,1,10,147,32,21.77,71,77.17,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23252,Lesson 1 Pre-Assessment,3,1,10,204,36,17.65,115,80.42,10,0,0,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23232,Lesson 4: Performance-Based Questions,3,1,,564,115,20.35,249,60.29,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23308,Lesson 4 Performance-Based Questions I,3,1,,111,5,4.5,44,43.56,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23223,Lesson 3 Performance-Based Questions I,3,1,,719,79,10.96,204,35.11,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23153,Lesson 7 Performance-Based Question,3,1,,392,77,19.64,157,53.77,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23217,Lesson 1 Performance-Based Questions: Installing and Configuring PC Components,3,1,,"1,064",623,58.44,235,58.46,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23224,Lesson 3 Performance-Based Questions II,3,1,,669,328,48.81,225,71.88,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23235,Lesson 5: Performance-Based Questions II,3,1,,491,147,29.94,255,78.22,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23243,Lesson 9: Performance-Based Questions II,3,1,,338,16,4.73,103,36.01,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23264,Lesson 1 Performance-Based Questions,3,1,,156,1,0.64,75,50.34,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23325,Lesson 5: Performance-Based Questions,3,1,,114,57,50,31,57.41,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23396,Lesson 10 Performance-Based Questions,3,1,,95,30,31.58,56,87.5,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23286,Lesson 3 Pre-Assessment,3,1,10,126,27,21.43,70,84.34,10,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23280,Lesson 2 Lab Work: Use Task Manager,3,1,,119,94,78.99,13,72.22,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23238,Lesson 8 Performance-Based Question,3,1,,369,258,69.73,78,75,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23293,Lesson 3 Performance-Based Questions,3,1,,128,37,28.91,70,79.55,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23296,Lesson 4 Pre-Assessment,3,1,10,119,21,17.65,71,85.54,10,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23306,Lesson 4 Lab Work: Perform Windows 10 OS Installation,3,1,,104,80,76.92,12,63.16,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23328,Lesson 6 Pre-Assessment,3,1,10,108,33,30.56,61,95.31,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23313,Lesson 5 Pre-Assessment,3,1,10,109,32,29.36,64,96.97,10,0,0,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23310,Lesson 4 Performance-Based Questions II,3,1,,112,9,8.04,66,66.67,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23967,Feedback Survey,3,1,1,221,149,67.42,53,73.61,1,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23323,Lesson 5 Lab Work: Configure Windows Networking,3,1,,101,88,87.13,6,75,,,,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23336,Lesson 6 Lab Work: Manage Files using Linux Command-line Tools,3,1,,93,67,72.04,9,42.86,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23338,Lesson 6 Performance-Based Questions,3,1,,108,29,26.85,45,58.44,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23377,Lesson 8 Performance-Based Questions,3,1,,100,9,9,31,35.23,,,,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23375,Lesson 8 Lab Work: Troubleshoot Security Issues Scenario #1,3,1,,79,69,87.34,6,75,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23365,Lesson 8 Pre-Assessment,3,1,10,97,24,24.74,57,90.48,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23380,Lesson 9 Pre-Assessment,3,1,10,94,19,20.21,58,89.23,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23347,Lesson 7 Pre-Assessment,3,1,10,102,8,7.84,71,84.52,10,0,0,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23360,Lesson 7 Performance-Based Questions I,3,1,,105,39,37.14,56,88.89,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23362,Lesson 7 Performance-Based Questions II,3,1,,103,24,23.3,45,59.21,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23382,Lesson 9 Performance-Based Questions,3,1,,100,9,9,42,47.73,,,,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23395,Lesson 10 Lab Work: Implement Backup and Recovery,3,1,,81,75,92.59,4,100,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23408,Lesson 11 Pre-Assessment,3,1,10,85,31,36.47,47,94,10,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,23393,Lesson 10 Pre-Assessment,3,1,10,90,9,10,65,89.04,10,0,0,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23441,Core 1 Final Assessment,3,1,,231,6,2.6,70,42.42,,,,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23410,Lesson 11 Lab Work: Manage a Support Ticket,3,1,,74,67,90.54,3,50,,,,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23262,Lesson 1 Lab Work: Configure Windows System Settings,3,1,,139,123,88.49,8,72.73,,,,none
+IT500 - IT Support (A+),Formative,Quiz,23449,Course Feedback Survey,3,1,1,77,54,70.13,15,88.24,1,0,0,none
+IT500 - IT Support (A+),Formative,Quiz,22996,Lesson 1 Pre-Assessment,3,1,10,"1,466",245,16.71,764,77.09,10,0,0,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23009,Lesson 1 Lab Work: Install a Motherboard,3,1,,"1,112",483,43.44,200,35.15,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23431,Core 2 Final Assessment,3,1,,74,10,13.51,33,56.9,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23421,Lesson 11 Performance-Based Questions II,3,1,,92,28,30.43,43,71.67,,,,none
+IT500 - IT Support (A+),Formative,CustomExternalAssessment,23073,Lesson 2 Lab Work: Install and Configure SSD Storage,3,1,,782,468,59.85,111,42.05,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23219,Lesson 2 Performance-Based Questions I,3,1,,906,210,23.18,198,30.6,,,,none
+IT500 - IT Support (A+),Summative,CustomExternalAssessment,23234,Lesson 5: Performance-Based Questions I,3,1,,505,78,15.42,147,36.03,,,,none
+BUS500 - Data Analysis_1.0 Data Analytics,Summative,Quiz,25167,Pre-Assessment Data Analysis C1,1,1,10,16,8,50,0,0,10,0,0,none
+BUS500 - Data Analysis_1.0 Data Analytics,Summative,Quiz,25185,Key Elements to Understand when Starting Data Analysis,2,1,4,3,0,0,0,0,4,0,0,none
+BUS500 - Data Analysis_1.0 Data Analytics,Summative,Quiz,25181,Learning Data Analytics,2,1,2,10,4,40,5,83.33,2,0,0,none
+BUS500 - Data Analysis_1.0 Data Analytics,Summative,Quiz,25187,Getting Started with Data Project,2,1,3,1,1,100,0,0,3,0,0,none
+BUS500 - Data Analysis_1.0 Data Analytics,Summative,Quiz,25183,Fundamentals of Data Understanding,2,1,2,4,3,75,1,100,2,0,0,none

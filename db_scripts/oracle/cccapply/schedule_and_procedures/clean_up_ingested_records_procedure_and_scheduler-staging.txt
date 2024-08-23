@@ -1,0 +1,19 @@
+CREATE OR REPLACE PROCEDURE CCCTCUSER_STAGING.delete_ingested_records
+IS
+BEGIN
+    DELETE FROM CCCTCUSER_STAGING.STAGING_STUDENT_APPLICATIONS
+        WHERE ingested_record = 1 and created_at < ADD_MONTHS (TRUNC (SYSDATE), -1);
+END;
+
+/
+
+BEGIN
+DBMS_SCHEDULER.CREATE_JOB (
+   job_name             => 'CCCTCUSER_STAGING.clean_up_ingested_records',
+   job_type             => 'PLSQL_BLOCK',
+   job_action           => 'BEGIN CCCTCUSER_STAGING.delete_ingested_records; END;',
+   start_date           => '01-MAY-23 1.00.00AM US/Pacific',
+   repeat_interval      => 'FREQ=MONTHLY; BYHOUR=1; BYMINUTE=0',
+   enabled              =>  TRUE,
+   comments             => 'Delete ingested rows that have existed for a month');
+END;

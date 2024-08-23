@@ -1,0 +1,2 @@
+propus @ git+ssh://git@github.com/calbright-college/propus.git@b556e6c6b4e75edc1b4690e97c09abe92d5bb359
+fpdf>=1.7.0

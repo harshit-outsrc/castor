@@ -1,0 +1,2 @@
+# https://github.com/pylint-dev/pylint/issues/1788#issuecomment-410381475
+disable=logging-fstring-interpolation

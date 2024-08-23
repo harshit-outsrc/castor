@@ -1,0 +1,6 @@
+update 
+    CCCTCUSER_STAGING.SZRAPLY 
+set 
+    APP_ID = 1111112
+where
+    APP_ID = 44444444;

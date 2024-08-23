@@ -1,0 +1,8 @@
+requests
+aiohttp
+asyncio
+salesforce_api
+python-dotenv
+pandas
+paramiko
+propus @ git+ssh://git@github.com/calbright-college/propus.git@56edd4ea8822c3be05f027ea52f02b89d0effec7

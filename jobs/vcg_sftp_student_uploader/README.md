@@ -1,0 +1,53 @@
+# Requirements
+
+1. Python3 (modules located in requirements.txt)
+2. Docker (Install, but Dockerfile is already setup)
+3. AWS CLI (Install and Config)
+4. Environment Variables (`.env`)
+
+# Quickstart
+
+1. Clone repo.
+2. Install modules in requirements.txt via `pip3`
+3. *Important* Gather required ENV variables, folder structure created and authorized_keys for sftp connection.
+4. Log into AWS ECR `aws ecr get-login-password --region us-west-2 | docker login --username AWS --password-stdin 523292522460.dkr.ecr.us-west-2.amazonaws.com`
+5. Build Docker Image `docker build --ssh default={location of ssh key} -t vcg_sftp_student_uploader .` or `docker build --build-arg default={location of ssh key} -t vcg_sftp_student_uploader .` based on being in the same folder as the Dockerfile
+6. Tag Docker Image `docker tag vcg_sftp_student_uploader:latest 523292522460.dkr.ecr.us-west-2.amazonaws.com/vcg_sftp_student_uploader`
+7. Push Docker Image `docker push 523292522460.dkr.ecr.us-west-2.amazonaws.com/vcg_sftp_student_uploader`
+8. Go into AWS and launch Scheduled Task under the ECS castor-cluster using CRON Expression: `cron(0 1 * * ? *)`
+
+# Notes
+
+The application is meant to be modular. `student_integrations` folder contains the integration access functions and classes used in order to determine process students.
+
+1. `process_sftp.py` contains functions that will create a CSV file and upload to an SFTP server.
+
+2. `salesforce.py` contains functions that will grant access to Salesforce API, which will allow the processing of bulk updates if student information has changed.
+
+3. For Local Environment runs, there are adjustments that need to be made to the Event Loop Policy in `vcg_script.py` marked by `#Set Async Loop policy to avoid RuntimeError` if you are running on Windows machine or leave as Default if you are running a Docker Image. When running locally, `logs/vcg_sftp_student_uploader.log` will contain output information related to logger. There are two adjustments that can be made for testing, one in `salesforce.py` where the SALESFORCE_QUERY is located and one in `process_sftp.py` which designate what SFTP Server the users are going to be uploaded.
+
+# Deployment Checks
+
+## Verify modifications are using async/await
+
+A lot of what we do interfaces with APIs. You don't want to hit rate-limits, and 
+you don't want to have parts of your code finishing before API calls complete. 
+
+The general layout of a successful job is as follows:
+
+1. Some async helper functions
+2. An anonymous async block where you sequentially call your helper functions.
+
+## Ensure your `.env` file is setup correctly.
+
+Ensure you also create the `.env` file and store it in the root of the project. 
+
+This is not pushed to the repository and will exist in a secure location as it contains sensitive information for logging into our integrations.
+
+## Send your code to the server
+
+Merge your changes to the `master` branch and make sure to push your Docker Image to the ECR
+
+## Schedule your trigger
+
+Schedule your Task on the ECS Cluster called castor-cluster. This uses Fargate instead of EC2.
